@@ -29,6 +29,20 @@
 </br>
 </br>
 
+
+<!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+<div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+  <div class="ImageWrapperFlex" >
+   <div class="FlexSide"  ></div>
+   <image class="FlexImage"   src='./images/thumbnail.png'/>
+   <div class="FlexSide" ></div>
+  </div>
+
+  <span > </span> 
+
+</div> <!-- end pictureWrapper_div -->
+
+
 <p id="目錄"></p>
 
 ## 目錄
