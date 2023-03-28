@@ -34,7 +34,7 @@
 <div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
   <div class="ImageWrapperFlex" >
    <div class="FlexSide"  ></div>
-   <image class="FlexImage"   src='./images/thumbnail.png'/>
+   <image class="FlexImage"   src='./images/解說鄧紫棋的祕密-cover.png'/>
    <div class="FlexSide" ></div>
   </div>
 
