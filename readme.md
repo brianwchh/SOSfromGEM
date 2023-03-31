@@ -30,17 +30,9 @@
 </br>
 
 
-<!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
-<div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
-  <div class="ImageWrapperFlex" >
-   <div class="FlexSide"  ></div>
-   <image class="FlexImage"   src='./images/解說鄧紫棋的祕密-cover.png'/>
-   <div class="FlexSide" ></div>
-  </div>
+![alt text](./images/解說鄧紫棋的祕密-cover.png) 
 
-  <span > </span> 
-
-</div> <!-- end pictureWrapper_div -->
+# [**更多請查看根據現實寫的當下正在發生的離奇詭異事件，這些就是鄧紫棋歌曲中隱藏的驚天祕密，和當下所發生的很多大事有關：【2507——抬上帝入天坑】https://github.com/brianwchh/worldofheart_v2/blob/main/md_and_html/鄧紫棋解解的小說——2507抬上帝入天坑.md**](https://github.com/brianwchh/worldofheart_v2/blob/main/md_and_html/%E9%84%A7%E7%B4%AB%E6%A3%8B%E8%A7%A3%E8%A7%A3%E7%9A%84%E5%B0%8F%E8%AA%AA%E2%80%94%E2%80%942507%E6%8A%AC%E4%B8%8A%E5%B8%9D%E5%85%A5%E5%A4%A9%E5%9D%91.md)
 
 
 <p id="目錄"></p>
@@ -81,6 +73,22 @@
   
 </div> <!-- end of div_1-->
 
+
+![alt text](./images/SOSfromGEM.png)  
+![alt text](./images/SOS1.png)  
+![alt text](./images/SOS2.png)  
+![alt text](./images/SOS3.png)  
+![alt text](./images/SOS4.png)  
+![alt text](./images/SOS5.png) 
+</br>
+
+  **<span>深度學習機器視覺(雙目視覺3D攝像頭)FPGA加速教程 [link to tutorial github repsository: https://github.com/brianwchh/grassrootsstartup-ComputerVsion-zynq](https://github.com/brianwchh/grassrootsstartup-ComputerVsion-zynq)</span>** 
+
+  </br>
+
+![alt text](./images/SOS6.png)  
+
+
 </br>
 
 當下世界的主要問題是神祕詭異深層政府的高智商與民衆的認知障礙！凡是揭露深層政府的都被民衆嘲笑成了陰謀論者！連情報比我們多太多的川普，作爲美國的總統，都在試圖對抗這深層政府，卻被牠們拉下了總統的位置，還被主流媒體嘲笑和宣傳爲陰謀論者！深層政府也是刻意把自己宣傳成了陰謀論和笑話對象的存在，因而在大衆先入爲主的認知觀念里，揭露牠們的就不免被認爲是陰謀論者，而且牠們也刻意找亂七八糟的像瘋子一樣的人到處“揭露”深層政府，但這種揭露卻是胡說八道、毫無根據，反而是在變相抹黑深層政府的反對派。因爲深層政府（全球主義者）掌控着主流媒體，反而這些瘋子的揭露被牠們故意送到了大衆的碗裏，大多真正揭露的聲音卻被各種方式阻撓了。牠們以猶太商人複利的方式一點一點水煮青蛙一樣深耕上百年潛伏在世界各個政府中，廁紙金融是牠們的主要武器，然後以法律證據與豔照門爲無形的鐵鍊，染指政壇媒體娛樂圈軍隊醫療，尤其女藝人成爲了其重要的性朝貢拉更多人進坑的魚餌！韓國演藝圈只是世界演藝圈黑暗的縮影而已。但凡掉入光明會或共濟會（即深層政府）坑里的，你要是不聽話，要麼坐牢幾十年，要麼像韓國女星張紫研和催雪莉以自殺的方式結束人生，死亡也許是出坑的唯一途徑！一場病毒，世界如此統一步調，足以證明世界的異樣了！
@@ -105,6 +113,9 @@
   <span > 韓國女星催雪莉自殺前的怪異行爲其實是無法明說的求救信號 </span> 
 
 </div> <!-- end pictureWrapper_div -->
+
+
+
 
 <p id="鄧紫棋的求救信號"></p>
 
@@ -781,8 +792,11 @@
 
 # 用圖表總結鄧紫棋與我的各種巧合(coincidences)
 
-![alt text](./images/%E5%B7%A7%E5%90%88%E5%9C%96.jpg)
-![alt text](./images/%E5%B7%A7%E5%90%88%E5%9C%962.jpg)
+因文件較大，請下載pdf文件至本地查看細節。
+
+[巧合圖之鄧紫棋的呼應1.pdf](./images/巧合圖之鄧紫棋的呼應1.pdf)
+[巧合圖之鄧紫棋的呼應2.pdf](./images/巧合圖之鄧紫棋的呼應2.pdf)
+[巧合圖之鄧紫棋的呼應3.pdf](./images/巧合圖之鄧紫棋的呼應3.pdf)
 
 
 </br>
